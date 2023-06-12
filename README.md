@@ -1,3 +1,2 @@
 # test-repo
-repository testing!!!
-read me
+repository testing!!
